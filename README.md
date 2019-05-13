@@ -19,3 +19,4 @@
 ## Code ##
 ### CSS ###
 * CSS selector cheatsheet https://codepen.io/nana8/full/aXQgoj
+* CSS effects https://cssfx.dev/
